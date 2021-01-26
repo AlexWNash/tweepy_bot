@@ -1,0 +1,1 @@
+This progam uses the tweepy library to access the twitter API. Right now it's set up to like the 5 most recent tweets based on a given keyword. However, this can be reconfigured to complete other tasks on the twitter API.
